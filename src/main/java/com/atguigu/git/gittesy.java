@@ -7,5 +7,6 @@ public class gittesy {
         System.out.println("hello git5!");
         System.out.println("hello git5!");
         System.out.println("hello git5!");
+        拉取
     }
 }
